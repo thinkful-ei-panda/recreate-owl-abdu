@@ -1,0 +1,7 @@
+.chat-event {
+    margin-left: 40px;
+}
+
+.chat-event-participant-name {
+    font-weight: bold;
+}

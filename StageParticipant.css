@@ -1,0 +1,24 @@
+.stage-participant {
+    position: relative;
+    flex: 1 0 50%;
+}
+
+.stage-participant-name {
+    text-align: center;
+}
+
+.stage-participant-avatar-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.stage-participant .avatar {
+    width: 100px;
+    height: 100px;
+}

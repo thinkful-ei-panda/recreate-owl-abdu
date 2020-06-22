@@ -1,0 +1,12 @@
+.chat-message {
+    display: flex;
+}
+
+.chat-message-right {
+    flex: 1;
+}
+
+.chat-message-participant-name {
+    font-weight: bold;
+    margin-right: 0.5em;
+}
